@@ -84,6 +84,7 @@ const App = () => {
 
   return (
     <Container className="p-5">
+      <h1 style={{textAlign:"center",fontSize:"3.5rem",color:"#3EC70B"}}>Tic Tac Toe</h1>
       <ToastContainer position="bottom-center" />
       <Row>
         <Col md={6} className="offset-md-3">
